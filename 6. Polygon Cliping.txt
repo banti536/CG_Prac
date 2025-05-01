@@ -1,0 +1,21 @@
+** 6. Polygon Cliping **
+
+Enter the co-ordinates of the window
+(Wxmin, Wymin) : 50
+50
+(Wxmax, Wymax) : 200
+200
+[7:59 pm, 1/5/2025] Sandip Gaikwad: Enter the number of vertices : 3
+Enter the coordinates1 : 25
+25
+Enter the coordinates2 : 100
+250
+Enter the coordinates3 : 100
+10
+Which clipping do you want to perform??
+1. Left
+2. Right
+3. Top
+4. Bottom
+Enter your choice : 1
+Do you want to perform another clipping?? (Y/N) Y
