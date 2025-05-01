@@ -1,0 +1,21 @@
+**Transformation ** 
+
+Enter your choice:
+1. Translation
+2. Scaling
+3. Rotation
+4. Exit
+1
+
+For Polygon:
+Enter number of edges: 3
+Enter coordinates for vertex 1: 150
+100
+Enter coordinates for vertex 2: 350
+100
+Enter coordinates for vertex 3: 250
+350
+Enter the translation factor for x and y: 50
+50
+
+
